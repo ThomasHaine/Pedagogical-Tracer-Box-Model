@@ -6,4 +6,6 @@ The model is based on [Haine & Hall (2002)](https://journals.ametsoc.org/view/jo
 
 Run the model with the `Tracer_diagnostics_illustration.mlx` LiveScript.
 
+To run the random walk residence time distribution computation use `make_random_walk_RTD.m`.
+
 Thomas.Haine@jhu.edu
