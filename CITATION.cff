@@ -22,8 +22,8 @@ identifiers:
     value: 10.1029/2024MS004637
     description: Journal of Advances in Modeling Earth Systems article
 repository-code: 'https://github.com/ThomasHaine/Ocean-Flux-Budget'
-url: 'https://github.com/hainegroup'
-abstract: Pedagogical tool and documentation for ocean fluxes
+url: 'https://github.com/ThomasHaine'
+abstract: Nine box model of ocean tracer transport and Green's function diagnostics
 keywords:
   - ocean flux
 license: MIT
