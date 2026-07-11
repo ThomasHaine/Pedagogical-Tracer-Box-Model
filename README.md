@@ -8,4 +8,6 @@ Run the nine box model with the `Tracer_diagnostics_illustration.mlx` LiveScript
 
 To run the random walk residence time distribution computation use `make_random_walk_RTD.m`.
 
+See also the [Julia version of this repo](https://github.com/ggebbie/OceanGreensFunctionMethods.jl/tree/v1.0).
+
 Thomas.Haine@jhu.edu
